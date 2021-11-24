@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="demolition.world.CollisionBoxTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-23T19:32:07" hostname="Mayanks-MacBook-Pro.local" time="0.114">
+  <properties/>
+  <testcase name="collisionTest()" classname="demolition.world.CollisionBoxTest" time="0.114"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
